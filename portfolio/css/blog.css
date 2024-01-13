@@ -1,0 +1,10 @@
+.menu list-unstyled ul li a:hover {
+    border-bottom: 4px solid; #000
+   
+   
+}
+
+.signup a:hover {
+    background-color: red;
+    transition: 0.6s;
+}
